@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+ text-align: center;
+}
+body{
+    border: 10px;
+    text-align: justify;
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
